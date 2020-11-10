@@ -2,21 +2,22 @@
 layout: default
 ---
 
-#  MODELOS DE PROGRAMACIÓN ORIENTADA A 
+#  MODELOS DE PROGRAMACIÓN ORIENTADA A OBJETOS
 
 ## PRÁCTICA 5 
 
 ### Previo
 
-1.¿Qué es github?
+1.   ¿Qué es  git?
 2.  ¿Qué es github?
 3.   ¿Qué es el tablero canvas de github?
 4.   ¿Cuáles son los comandos básicos de github?
 
-##  OBJETIVO
+### Objetivo
 Organizar adecuadamente las clases según su funcionalidad o propósito bajo un namespace o paquete.
 
-## Actividades
+### Actividades
+
 1.   Conocer los tableros canvas
 2.   crear un proyecto en NetBeans y en la terminal
 3. Crear un jar en NetBeans y en la terminal
